@@ -1,10 +1,10 @@
 # EEG_Autogrind
 
-Run as administrator to ensure the scripts work as intended  
-The automation script is designed around Shadower
-- jump binded to 'space' key
-- Cruel Stab binded to 'e' key
-- Meso Explosion binded to 'q' key  
+Please run as administrator to ensure the scripts work as intended  
+The automation script was designed around Shadower
+- jump bound to "space" key
+- Cruel Stab bound to "e" key
+- Meso Explosion bound to "q" key  
   
 Press "p" to start/end route creation phase  
 Press "a" to start/end automation phase  
