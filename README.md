@@ -6,6 +6,7 @@ The automation script is designed around Shadower
 - Cruel Stab binded to 'e' key
 - Meso Explosion binded to 'q' key  
   
-Press "p" to start route creation process  
-Press "a" to start automation  
-- Quickly switch to Maplestory window after starting automation
+Press "p" to start/end route creation phase  
+Press "a" to start/end automation phase  
+- Please have Maplestory open and ready before starting the automation phase  
+- Please quickly bring Maplestory to the foreground after starting automation
